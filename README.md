@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/dchaudharyme25-design/DSA/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/dchaudharyme25-design/DSA/tree/master/0088-merge-sorted-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/dchaudharyme25-design/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dchaudharyme25-design/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
 |  |
@@ -26,9 +27,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dchaudharyme25-design/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dchaudharyme25-design/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/dchaudharyme25-design/DSA/tree/master/0001-two-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dchaudharyme25-design/DSA/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/dchaudharyme25-design/DSA/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
