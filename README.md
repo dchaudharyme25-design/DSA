@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/dchaudharyme25-design/DSA/tree/master/0006-zigzag-conversion) |
+| [0151-reverse-words-in-a-string](https://github.com/dchaudharyme25-design/DSA/tree/master/0151-reverse-words-in-a-string) |
 ## Array
 |  |
 | ------- |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/dchaudharyme25-design/DSA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/dchaudharyme25-design/DSA/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/dchaudharyme25-design/DSA/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/dchaudharyme25-design/DSA/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/dchaudharyme25-design/DSA/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/dchaudharyme25-design/DSA/tree/master/0283-move-zeroes) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/dchaudharyme25-design/DSA/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
